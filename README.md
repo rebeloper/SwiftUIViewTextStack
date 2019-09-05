@@ -1,6 +1,6 @@
 # SwiftUIViewTextStack
 
-You know I love Swift!
+[You know I love Swift!](https://www.youtube.com/watch?v=zucwLZoCs8w)
 
 But you also know, Apple has undergone some big changes recently with SwiftUI.
 
