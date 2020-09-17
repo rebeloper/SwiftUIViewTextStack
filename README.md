@@ -29,3 +29,5 @@ All you have to do is [watch my new video](https://www.youtube.com/watch?v=zucwL
 Let’s get to work!
 
 --Alex
+
+https://www.youtube.com/watch?v=zucwLZoCs8w&list=PL_csAAO9PQ8Z1pbr-u6dSmDQTLZzDgcaP&index=1
